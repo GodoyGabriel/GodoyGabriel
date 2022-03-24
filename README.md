@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=GodoyGabriel&color=yellow)
+<!--  ![](https://komarev.com/ghpvc/?username=GodoyGabriel&color=yellow)  -->
 
 You can contact me via godoygabriel95@hotmail.com
 <h4 align="center">
@@ -26,8 +26,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 </h4>
 
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyGabriel&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=GodoyGabriel&sshow_icons=true&theme=radical&count_private=true">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyGabriel&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=dark">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=GodoyGabriel&sshow_icons=true&theme=dark&count_private=true">
 </p>
 
 <details align="center">
